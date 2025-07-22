@@ -181,7 +181,7 @@ const FooterOne = () => {
                   All&nbsp;Rights&nbsp;Reserved.
                   {/* credit link can lead to your portfolio or agency site */}
                   &nbsp;Designed&nbsp;&amp;&nbsp;Developed&nbsp;by&nbsp;
-                  <Link to="/">Arjun</Link>
+                  <Link to="/">HUSh LUSH</Link>
                 </p>
               </div>
 
