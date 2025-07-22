@@ -27,9 +27,9 @@ const HeroHomeThree = () => {
         <Link to="/contact" className="primary-btn one gradient-bg white-color">
           <span>Contact Us</span><img src="assets/images/icons/icon-1.png" alt="" />
         </Link>
-        <a href="#" className="primary-btn one gradient-bg white-color border-btn">
+        <Link to="/products" className="primary-btn one gradient-bg white-color border-btn">
           <span>Explore Products</span><img src="assets/images/icons/icon-2.png" alt="" />
-        </a>
+        </Link>
       </div>
       </div>
           {/* <div className="hero-image-box-two">

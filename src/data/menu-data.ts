@@ -48,17 +48,17 @@ const menu_data = [
   //     { link: "/portfolio-details",     title: "Portfolio Details" },
   //   ],
   // },
-  {
-    id: 5,
-    title: "Blog & News",
-    link: "#",
-    has_dropdown: true, 
-    sub_menus: [
-      { link: "/blog",                 title: "Our Blog" },
-      { link: "/blog-2",               title: "Blog Standard" },
-      { link: "/blog-details",         title: "Blog Details" },
-    ],
-  }, 
+  // {
+  //   id: 5,
+  //   title: "Blog & News",
+  //   link: "#",
+  //   has_dropdown: true, 
+  //   sub_menus: [
+  //     { link: "/blog",                 title: "Our Blog" },
+  //     { link: "/blog-2",               title: "Blog Standard" },
+  //     { link: "/blog-details",         title: "Blog Details" },
+  //   ],
+  // }, 
   {
     id: 6,
     title: "Contact",

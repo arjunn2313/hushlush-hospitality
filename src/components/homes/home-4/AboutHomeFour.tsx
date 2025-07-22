@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useRef } from "react";
 import CircleType from "circletype";
+import { Link } from "react-router-dom";
 
 const AboutHomeFour = () => {
   const curvedTextRef = useRef<HTMLDivElement>(null);
@@ -31,10 +32,10 @@ const AboutHomeFour = () => {
     <p>Our journey is driven by a commitment to excellence and a vision to lead the region in delivering top-tier products and services tailored to the evolving needs of our clients.</p>
   </div>
   <div className="btn-box">
-    <a href="#" className="primary-btn one gradient-bg white-color border-btn">
+    <Link to="/about" className="primary-btn one gradient-bg white-color border-btn">
       <span>Explore More</span>
       <i className="icon-1 gradient-color"></i>
-    </a>
+    </Link>
   </div>
 </div>
 

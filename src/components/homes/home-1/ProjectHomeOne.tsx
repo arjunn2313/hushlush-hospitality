@@ -9,28 +9,28 @@ const categories = [
   {
     name: "Coffee Machines",
     image: "assets/images/resource/cofee-machine.jpg",
-    link: "/category/tableware"
+    link: "/products"
   },
   {
     name: "Home Keeping",
     image: "assets/images/resource/housekeeping.jpeg",
-    link: "/category/kitchen"
+    link: "/products"
   },
  
   {
     name: "Display Cases",
     image: "assets/images/resource/displaycase.jpg",
-    link: "/category/furniture"
+    link: "/products"
   },
     {
     name: "Baking Machine",
     image: "assets/images/resource/baking-5.png",
-    link: "/category/cutlery"
+    link: "/products"
   },
   {
     name: "Dish Washer",
     image: "assets/images/resource/dishwasher.jpg",
-    link: "/category/glassware"
+    link: "/products"
   },
 
   // Add more as needed

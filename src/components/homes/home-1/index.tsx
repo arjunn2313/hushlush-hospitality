@@ -14,7 +14,7 @@ import FooterOne from "../../../layouts/footers/FooterOne";
 import HeroHomeThree from "../home-3/HeroHomeThree";
 import HeaderTwo from "../../../layouts/headers/HeaderTwo";
 import AboutHomeFour from "../home-4/AboutHomeFour";
-import PortfolioHomeFour from "../home-4/PortfolioHomeFour";
+ 
 
 const HomeOne = () => {
   return (
@@ -27,7 +27,7 @@ const HomeOne = () => {
         <AboutHomeOne />
         <ParallaxImgHomeOne />
         <ProjectHomeOne />
-        <PortfolioHomeFour />
+        {/* <PortfolioHomeFour /> */}
 
         <PortfolioHomeOne />
         <WorkingHomeOne />

@@ -1,39 +1,39 @@
- import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const productData = [
   {
     title: "Guest Room Essentials",
-    link: "/portfolio-details",
+    link: "/product-details/1",
     image: "assets/images/resource/hos.jpg",
     col: "5",
   },
   {
     title: "Restaurant Kitchen Equipment",
-    link: "/portfolio-details",
+    link: "/product-details/2",
     image: "assets/images/resource/kit.jpg",
     col: "7",
   },
   {
     title: "Hotel Linen & Housekeeping",
-    link: "/portfolio-details",
+    link: "/product-details/3",
     image: "assets/images/resource/tt.jpg",
     col: "7",
   },
   {
     title: "Chinaware & Glassware",
-    link: "/portfolio-details",
+    link: "/product-details/4",
     image: "assets/images/resource/www.jpg",
     col: "5",
   },
   {
     title: "Cafeteria Essentials",
-    link: "/portfolio-details",
+    link: "/product-details/5",
     image: "assets/images/resource/caf.jpg",
     col: "5",
   },
   {
     title: "Cleaning & Hygiene Tools",
-    link: "/portfolio-details",
+    link: "/product-details/6",
     image: "assets/images/resource/clean.jpg",
     col: "7",
   },
@@ -66,7 +66,11 @@ const PortfolioArea = () => {
                     <img
                       src={item.image}
                       alt={item.title}
-                      style={{ height: "300px", width: "100%", objectFit: "cover" }}
+                      style={{
+                        height: "300px",
+                        width: "100%",
+                        objectFit: "cover",
+                      }}
                     />
                   </figure>
                 </div>

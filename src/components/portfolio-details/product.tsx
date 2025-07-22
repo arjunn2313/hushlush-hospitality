@@ -144,8 +144,9 @@ const productData = [
   idealFor: ["Hotels", "Resorts", "Event Venues"],
   images: [
     "/assets/images/portfolio/ccc.jpg",
-    "/assets/images/portfolio/portfolio-21.jpg",
-    "/assets/images/portfolio/portfolio-22.jpg"
+    "/assets/images/portfolio/c-4.webp",
+    "/assets/images/portfolio/c-1.webp",
+    "/assets/images/portfolio/c-2.webp",
   ]
 },
 
