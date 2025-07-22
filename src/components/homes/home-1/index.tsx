@@ -1,4 +1,4 @@
-import HeroHomeOne from "./HeroHomeOne";
+
 import CounterHomeOne from "./CounterHomeOne";
 import AboutHomeOne from "./AboutHomeOne";
 import ParallaxImgHomeOne from "./ParallaxImgHomeOne";
