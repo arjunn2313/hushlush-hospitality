@@ -6,27 +6,27 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 const productData = [
   {
-    // title: "Guest Room Amenities",
+    title: "Guest Room Amenities",
     link: "/products/guest-room-items",
     image: "/assets/images/portfolio/1.jpg",
   },
   {
-    // title: "Kitchen Equipment",
+    title: "Kitchen Equipment",
     link: "/products/kitchen-equipment",
     image: "/assets/images/portfolio/2.jpg",
   },
   {
-    // title: "Housekeeping Trolleys",
+    title: "Housekeeping Trolleys",
     link: "/products/housekeeping",
     image: "/assets/images/portfolio/3.jpg",
   },
   {
-    // title: "Chinaware & Glassware",
+    title: "Chinaware & Glassware",
     link: "/products/chinaware",
     image: "/assets/images/portfolio/4.jpg",
   },
   {
-    // title: "Chinaware & Glassware",
+    title: "Chinaware & Glassware",
     link: "/products/chinaware",
     image: "/assets/images/portfolio/5.jpg",
   },
