@@ -1,8 +1,7 @@
- "use client";
+"use client";
 
 import { useRef } from "react";
-import emailjs, { EmailJSResponseStatus } from "@emailjs/browser";
-
+import emailjs from "@emailjs/browser";
 
 const ContactArea = () => {
   const formRef = useRef<HTMLFormElement | null>(null);
@@ -13,13 +12,13 @@ const ContactArea = () => {
     if (formRef.current) {
       emailjs
         .sendForm(
-          "service_atkz71j",    
-          "template_ivtlt4a",    
+          "service_atkz71j",     // ✅ Your EmailJS Service ID
+          "template_ivtlt4a",    // ✅ Your EmailJS Template ID
           formRef.current,
-          "kEBU70wzc__WyqdEF"     
+          "kEBU70wzc__WyqdEF"    // ✅ Your EmailJS Public Key
         )
         .then(
-          (result: EmailJSResponseStatus) => {
+          () => {
             alert("Message sent successfully!");
             formRef.current?.reset();
           },
