@@ -53,7 +53,7 @@ const FooterOne = () => {
                         <Link to="/services">Services</Link>
                       </li>
                       <li>
-                        <Link to="/projects">Projects</Link>
+                        <Link to="/products">Products</Link>
                       </li>
                       <li>
                         <Link to="/contact">Contact</Link>
@@ -105,7 +105,7 @@ const FooterOne = () => {
                   </div>
                   <div className="widget-content">
                     <p>
-                      Office 205, Business Bay Tower
+                      crystal plaza Sharjah al majaz 1
                       <br />
                       Dubai, UAE
                     </p>
@@ -114,7 +114,10 @@ const FooterOne = () => {
                         <a href="mailto:info@hushlush.com">info@hushlush.com</a>
                       </li>
                       <li>
-                        <a href="tel:+971501234567">+971 50 123 4567</a>
+                        <a href="tel:0542321280">0542321280</a>
+                      </li>
+                      <li>
+                        <a href="tel:0542321279">0542321279</a>
                       </li>
                     </ul>
                   </div>
@@ -131,7 +134,7 @@ const FooterOne = () => {
                     <ul className="social-list">
                       <li>
                         <a
-                          href="https://facebook.com"
+                          href="https://www.facebook.com/share/1GRWMwvh9z/"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -149,7 +152,7 @@ const FooterOne = () => {
                       </li>
                       <li>
                         <a
-                          href="https://instagram.com"
+                          href="https://www.instagram.com/hushlushhospitality?utm_source=qr&igsh=MW50bGp0cjRlOTdzNA=="
                           target="_blank"
                           rel="noopener noreferrer"
                         >
