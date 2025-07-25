@@ -21,9 +21,9 @@ const PortfolioHomeOne = () => {
                 </ul>
               </div>
               <div className="link-box">
-                <Link to="/portfolio-details">
+                {/* <Link to="/portfolio-details">
                   <img src="assets/images/icons/icon-34.png" alt="View" />
-                </Link>
+                </Link> */}
               </div>
               <div className="image-content">
                 {/* <figure className="image"><img src="assets/images/portfolio/portfolio-1.png" alt="Sourcing" /></figure> */}
@@ -40,9 +40,9 @@ const PortfolioHomeOne = () => {
                 </ul>
               </div>
               <div className="link-box">
-                <Link to="/portfolio-details">
+                {/* <Link to="/portfolio-details">
                   <img src="assets/images/icons/icon-34.png" alt="View" />
-                </Link>
+                </Link> */}
               </div>
               <div className="image-content">
                 {/* <figure className="image"><img src="assets/images/portfolio/portfolio-2.png" alt="Logistics" /></figure> */}
@@ -59,9 +59,9 @@ const PortfolioHomeOne = () => {
                 </ul>
               </div>
               <div className="link-box">
-                <Link to="/portfolio-details">
+                {/* <Link to="/portfolio-details">
                   <img src="assets/images/icons/icon-34.png" alt="View" />
-                </Link>
+                </Link> */}
               </div>
               <div className="image-content">
                 {/* <figure className="image"><img src="assets/images/portfolio/portfolio-3.png" alt="Packaging" /></figure> */}
@@ -77,9 +77,9 @@ const PortfolioHomeOne = () => {
                 </ul>
               </div>
               <div className="link-box">
-                <Link to="/portfolio-details">
+                {/* <Link to="/portfolio-details">
                   <img src="assets/images/icons/icon-34.png" alt="View" />
-                </Link>
+                </Link> */}
               </div>
               <div className="image-content">
                 {/* <figure className="image"><img src="assets/images/portfolio/portfolio-4.png" alt="Hospitality Products" /></figure> */}
