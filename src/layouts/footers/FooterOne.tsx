@@ -143,13 +143,14 @@ const FooterOne = () => {
                       </li>
                       <li>
                         <a
-                          href="https://twitter.com"
+                          href="https://www.snapchat.com/add/hushlush_gt?share_id=RsAljOzoMFI&locale=en-US"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          <i className="fab fa-twitter"></i>
+                          <i className="fab fa-snapchat-ghost"></i>
                         </a>
                       </li>
+
                       <li>
                         <a
                           href="https://www.instagram.com/hushlushhospitality?utm_source=qr&igsh=MW50bGp0cjRlOTdzNA=="
@@ -161,11 +162,11 @@ const FooterOne = () => {
                       </li>
                       <li>
                         <a
-                          href="https://linkedin.com"
+                          href="https://www.tiktok.com/@hushlush_hospitality?_t=ZS-8yHtre4jhyy&_r=1"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
-                          <i className="fab fa-linkedin-in"></i>
+                          <i className="fab fa-tiktok"></i>
                         </a>
                       </li>
                     </ul>
