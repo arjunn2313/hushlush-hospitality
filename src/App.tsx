@@ -17,8 +17,12 @@ import Blog from "./components/blog";
 import BlogTwo from "./components/blog-2";
 import BlogDetails from "./components/blog-details";
 import Contact from "./components/contact";
- 
+import SnowfallEffect from "./components/christmas/SnowFall";
+import SantaWaving from "./components/christmas/SantaWaving";
 
+
+ 
+ 
 const router = createBrowserRouter([
 	{ path: "/", element: <HomeOne /> }, 
 	{ path: "/home-2", element: <HomeTwo /> }, 
@@ -52,6 +56,8 @@ function App() {
 
 	return (
 		<>
+		<SnowfallEffect />
+		<SantaWaving			 />
 			<RouterProvider router={router} />
 		</>
 	);
